@@ -51,7 +51,7 @@ Bubble Burst is released under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or inquiries, please contact the project owners:
-- Abdullah Mazhar (abdullahmaz2000@gmail.com)
+- Abdullah Mazhar (abdullahmaz2003@gmail.com)
 - Zain Ul Wahab (ulwahabzain@gmail.com)
 
 ## Acknowledgments
