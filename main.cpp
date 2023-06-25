@@ -1,8 +1,3 @@
-//By
-//Zain Ul Wahab 22i-0491
-//Asher Ahmad 22i-0622
-//Fardeen Farhat 22i-0638
-//Sahal Saeed 22i-0476
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <time.h>
